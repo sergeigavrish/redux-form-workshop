@@ -1,7 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import FormPage from './Redux forms/containers/formPage';
-import './App.css';
 import MenuAppBar from './components/menuAppBar';
 import UncontrolledNameForm from './usual forms/usual/uncontrolled/uncontrolled';
 import ControlledFormPage from './usual forms/usual/controlled/container/controlledFormPage';
